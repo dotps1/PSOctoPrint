@@ -9,7 +9,7 @@ Set-OctoPrintApiKey -HostName octopi -ApiKey FF6C89F7E64742D497858C9C311F3A8F
 
 After that is done, you can start using the other cmdlets:
 
-``PowerShell
+```PowerShell
 Get-OctoPrintApiVersion
 
 Api Server
